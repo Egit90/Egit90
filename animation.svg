@@ -1,41 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
-    <defs>
-      <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff0000" /> <stop offset="100%" stop-color="#00ffff" /> </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" fill="url(#textGradient)" />
-    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="black">
-      Elie Maatouk
-    </text>
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="black">
-      <tspan id="text"></tspan>
-    </text>
-    <script>
-      const textElement = document.getElementById("text");
-      const texts = ["Full-Stack Developer", "Asp.net Core", "Reactjs", "Angular", "Nextjs"];
-      let currentTextIndex = 0;
-      let isTyping = true;
-      let typedText = "";
-  
-      function changeText() {
-        const currentText = texts[currentTextIndex];
-        if (isTyping) {
-          typedText += currentText[typedText.length];
-          textElement.textContent = typedText;
-          if (typedText === currentText) {
-            isTyping = false;
-            setTimeout(() => {
-              isTyping = true;
-              typedText = "";
-              currentTextIndex = (currentTextIndex + 1) % texts.length;
-            }, 1000);
-          }
-        } else {
-          textElement.textContent = currentText;
-        }
-        setTimeout(changeText, 50);
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="blue">
+    Elie Maatouk
+  </text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#C139EC">
+    <tspan id="text"></tspan>
+  </text>
+  <script>
+<![CDATA[
+  const textElement = document.getElementById("text");
+  const texts = ["Full-Stack Developer", "Asp.net Core", "Reactjs","Angular", "Nextjs"];
+  let currentTextIndex = 0;
+  let isTyping = true;
+  let typedText = "";
+
+  function changeText() {
+    const currentText = texts[currentTextIndex];
+    if (isTyping) {
+      typedText += currentText[typedText.length];
+      textElement.textContent = typedText;
+      if (typedText === currentText) {
+        isTyping = false;
+        setTimeout(() => {
+          isTyping = true;
+          typedText = "";
+          currentTextIndex = (currentTextIndex + 1) % texts.length;
+        }, 1000);
       }
-  
-      changeText();
-    </script>
-  </svg>
+    } else {
+      textElement.textContent = currentText;
+    }
+    setTimeout(changeText, 50);
+  }
+
+  changeText();
+]]>
+  </script>
+</svg>
