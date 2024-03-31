@@ -2,7 +2,7 @@
 
 
 
-<iframe src="animation.html" width="500" height="100"></iframe>
+![](./animation.svg)
 
 <!--
 **Egit90/Egit90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
