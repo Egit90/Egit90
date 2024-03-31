@@ -1,8 +1,6 @@
-### Hi there 👋
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D285F7&multiline=true&repeat=false&random=false&width=435&lines=Elie+Maatouk)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D285F7&random=false&width=435&lines=Full+Stack+Developer;ASP.NET+Core;NodeJs;React;Angular)](https://git.io/typing-svg)
 
 <!--
 **Egit90/Egit90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
