@@ -34,3 +34,24 @@ Highlights:
 - Developed a microservice for glass and extrusion custom pricing, enhancing efficiency in material quoting.
 - Built a robust backend service statement manager that automatically sends statements to customers upon their due date.
 - Beyond the workday, I actively pursue personal projects to further hone my skills.
+
+#
+
+## Projects
+
+**DatingApp**
+
+**Demo:** https://datingapp.eliemaatouk.dev
+
+**Technologies Used:**
+
+- ASP.NET Core 8
+- Entity Framework
+- SignalR
+- Angular
+- Tailwind CSS
+
+**Features:**
+
+- Real-time Chat
+- JWT Tokens
