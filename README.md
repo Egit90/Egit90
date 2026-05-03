@@ -1,57 +1,52 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D285F7&multiline=true&repeat=false&random=false&width=435&lines=Elie+Maatouk)
+# Elie Maatouk
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9AF776&random=false&width=435&lines=Full+Stack+Developer;ASP.NET+Core;NodeJs;React;Angular)
+**Full Stack Developer focused on the .NET ecosystem**, building backend systems, integrations, and data-driven applications that solve real operational problems.
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".Net" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+I specialize in **ASP.NET Core / C#**, with hands-on experience designing APIs, integrating ERP systems, and working with complex business data. I also leverage modern JavaScript/TypeScript runtimes (Node.js, Bun) when needed.
 
-<br/>
+---
 
-#
+## Core Expertise
 
-Lifelong learner with a passion for building dynamic and user-friendly web applications. Adept in both front-end and back-end development, specializing in technologies like:
+🔹 **.NET Backend Development**  
+- ASP.NET Core, Web APIs, service architecture  
+- Clean, maintainable backend systems with strong separation of concerns  
 
-- ASP.NET Core
-- Node.js
-- Next.js
-- React
-- Angular
+🔹 **AI + Data Systems**  
+- Built an AI-powered tool that translates business questions into SuiteQL queries  
+- Users ask natural language questions → AI generates optimized SuiteQL → executes against NetSuite → returns structured results  
+- Designed with a focus on **efficiency, accuracy, and minimizing unnecessary data exposure**
 
-Highlights:
+🔹 **Database & Performance**  
+- SQL Server, PostgreSQL  
+- Query optimization, indexing strategies, and handling large transactional datasets  
 
-- Successfully migrated a VB6 application to VB.NET with a web interface using Wisej.net, streamlining processes within my current company.
-- Developed a microservice for glass and extrusion custom pricing, enhancing efficiency in material quoting.
-- Built a robust backend service statement manager that automatically sends statements to customers upon their due date.
-- Beyond the workday, I actively pursue personal projects to further hone my skills.
+🔹 **System Integration & Automation**  
+- ERP integrations, background processing, and workflow automation  
+- Building reliable pipelines between internal systems and external services  
 
-#
+---
 
-## Projects
+## NetSuite & ERP Experience
 
-**DatingApp**
+🔹 **RESTlet Integrations**  
+- Designed and maintained RESTlet-based workflows for order processing, shipping, and data synchronization  
+- Built reliable integrations between NetSuite and internal services with robust error handling and retry strategies  
+- Worked with real-world edge cases (timeouts, partial failures, data inconsistencies)
 
-**Demo:** https://datingapp.eliemaatouk.dev
+🔹 **SuiteQL & Analytics**  
+- Advanced use of SuiteQL for reporting, dashboards, and operational insights  
+- Built complex queries for revenue tracking, sales trends, fulfillment, and inventory analysis  
+- Deep understanding of NetSuite schema and transaction relationships  
 
-**Technologies Used:**
+🔹 **Data Modeling & Workflows**  
+- Experience with Sales Orders, Invoices, Fulfillment, and custom fields  
+- Optimized data access patterns for performance and scalability in high-volume environments  
 
-- ASP.NET Core 8
-- Entity Framework
-- SignalR
-- Angular
-- Tailwind CSS
+---
 
-**Features:**
+## Current Focus
 
-- Real-time Chat
-- JWT Tokens
+Exploring **AI-assisted development and automation**, especially where it intersects with real business data and workflows.
+
+---
